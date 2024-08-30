@@ -65,7 +65,8 @@ Sep 2023 - Dec 2023
 
 ## Skills
 - *Software Development Life Cycle (SDLC) with experience in Agile methodologies.  
-- *Programming Languages: C#, Python, Java, JavaScript, Data Structures & Algorithms, Machine Learning, Big Data Analysis, Deep Learning.                           - *Frameworks: .NET Framework, ASP.NET Web API, WPF
+- *Programming Languages: C#, Python, Java, JavaScript, Data Structures & Algorithms, Machine Learning, Big Data Analysis, Deep Learning.
+- *Frameworks: .NET Framework, ASP.NET Web API, WPF
 - *Databases: SQL Server, MySQL
 - *Back End: ASP.NET MVC, RESTful API
 - *Front End: HTML, CSS, AngularJS
