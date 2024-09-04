@@ -58,11 +58,11 @@ July 2018
 -	Created and implemented classification and regression models to forecast major staffing gaps and hospitalization trends during the COVID-19 outbreak, using large datasets with more than 71,000 entries. Applied CRISP-DM methodology for comprehensive data analysis, achieving high precision and recall in hospitalization rate predictions, and identified key areas for improving staffing shortage predictions.
 
 ## Skills
-- *Software Development Life Cycle (SDLC) with experience in Agile methodologies.  
-- *Programming Languages: C#, Python, Java, JavaScript, Data Structures & Algorithms, Machine Learning, Big Data Analysis, Deep Learning.
-- *Frameworks: .NET Framework, ASP.NET Web API, WPF
-- *Databases: SQL Server, MySQL
-- *Back End: ASP.NET MVC, RESTful API
-- *Front End: HTML, CSS, AngularJS
-- *Tools/Software:* Eclipse, Visual Studio Code, Jupyter Notebook, Hadoop
-- *Others: Jenkins, CI/CD, AWS, Salesforce, SonarQube, SoapUI, Selenium, Postman
+- Software Development Life Cycle (SDLC) with experience in Agile methodologies.  
+- Programming Languages: C#, Python, Java, JavaScript, Data Structures & Algorithms, Machine Learning, Big Data Analysis, Deep Learning.
+- Frameworks: .NET Framework, ASP.NET Web API, WPF
+- Databases: SQL Server, MySQL
+- Back End: ASP.NET MVC, RESTful API
+- Front End: HTML, CSS, AngularJS
+- Tools/Software:* Eclipse, Visual Studio Code, Jupyter Notebook, Hadoop
+- Others: Jenkins, CI/CD, AWS, Salesforce, SonarQube, SoapUI, Selenium, Postman
