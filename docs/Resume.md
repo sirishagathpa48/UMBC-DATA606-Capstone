@@ -51,14 +51,13 @@ Dec 2018 - Nov 2020
 - Analyzed project requirements and developed technical design documents for 10+ enhancements, ensuring precise estimates and execution.
 
 ## Projects
-# Forest Fire Detection using Deep Learning | Python, CNN, ANN, RCNN, Machine Learning - Mar 2024 - May 2024  [Link](https://github.com/sirishagathpa48/Deep_Dive_into_COVID_19s_Impact_on_Hospital_Systems)                                          
-
+## Forest Fire Detection using Deep Learning | Python, CNN, ANN, RCNN, Machine Learning - Mar 2024 - May 2024 [Link] (https://github.com/sirishagathpa48/Forest-Fire-Detection-using-Deep-Learning)                 
 - Designed and optimized a CNN model to address the critical issue of forest fire detection, achieving 95% accuracy and outperforming ANN and RCNN models. Tackled limitations of traditional methods by enhancing model architecture, expanding datasets, and implementing real-time deployment for proactive monitoring, significantly improving early fire detection and response.
 
-# Revolutionizing Customer Usage with Data-Driven Insights| Python, Machine Learning - Oct 2023 - Dec 2023       
+## Revolutionizing Customer Usage with Data-Driven Insights| Python, Machine Learning - Oct 2023 - Dec 2023 [Link](https://github.com/sirishagathpa48/Revolutionizing_Customer_Usage_with_Data_Driven_Insights)                                  
 -	Created a highly accurate churn prediction model with an RMSE of 4.6e-06, effectively detecting early indicators of customer attrition. Executed detailed data analysis to pinpoint usage patterns and trends, refining customer retention strategies and boosting the overall customer experience.
 
-# Deep Dive into COVID-19’s Impact on Hospital Systems| Python, Machine Learning - Sep 2023 - Dec 2023
+## Deep Dive into COVID-19’s Impact on Hospital Systems| Python, Machine Learning - Sep 2023 - Dec 2023 [Link](https://github.com/sirishagathpa48/Deep_Dive_into_COVID_19s_Impact_on_Hospital_Systems)                              
 -	Created and implemented classification and regression models to forecast major staffing gaps and hospitalization trends during the COVID-19 outbreak, using large datasets with more than 71,000 entries. Applied CRISP-DM methodology for comprehensive data analysis, achieving high precision and recall in hospitalization rate predictions, and identified key areas for improving staffing shortage predictions.
 
 ## Skills
