@@ -5,7 +5,7 @@
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - GitHub - https://github.com/sirishagathpa48
 - LinkedIn - https://www.linkedin.com/in/sirishagathpa48/
-- 
+  
 ---
 
 ### Background
@@ -32,10 +32,6 @@ Traditional rule-based systems are often not effective enough to catch evolving 
 
 #### Relevance in Industry
 Fraud detection is an important **real-time problem** in the banking and retail industries, where millions of transactions happen daily. Large-scale payment processors, credit card companies, and e-commerce platforms require efficient fraud detection systems that can prevent fraudulent transactions before they are completed. Machine learning models can quickly process incoming transactions, flagging potential fraud within seconds, thus minimizing damage.
-
-1. Can machine learning models accurately classify fraudulent transactions using the features available in this dataset?
-2. Which features contribute the most to the accurate prediction of fraud?
-3. How do the geographic locations of cardholders and merchants affect the likelihood of fraud?
 
 ---
 
