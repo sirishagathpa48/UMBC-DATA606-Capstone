@@ -1,4 +1,4 @@
-# Credit Card Data Fraudulent Transaction Detection with Predictive Analytics
+# Predictive Analytics for Detecting Fraudulent Transactions in Credit Card Data
 
 - Author - Sirisha Gathpa
 - Semester - Fall'24
