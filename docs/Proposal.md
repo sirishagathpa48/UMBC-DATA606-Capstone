@@ -1,6 +1,6 @@
 ## 1. Title and Author
 
-# Predictive Analytics for Detecting Fraudulent Transactions in Credit Card Data
+### Predictive Analytics for Detecting Fraudulent Transactions in Credit Card Data
 
 - Author - Sirisha Gathpa
 - Semester - Fall'24
@@ -8,7 +8,7 @@
 - GitHub - https://github.com/sirishagathpa48
 - LinkedIn - https://www.linkedin.com/in/sirishagathpa48/
   
----
+
 
 ## 2. Background
 
@@ -35,7 +35,7 @@ Traditional rule-based systems are often not effective enough to catch evolving 
 #### Relevance in Industry
 Fraud detection is an important **real-time problem** in the banking and retail industries, where millions of transactions happen daily. Large-scale payment processors, credit card companies, and e-commerce platforms require efficient fraud detection systems that can prevent fraudulent transactions before they are completed. Machine learning models can quickly process incoming transactions, flagging potential fraud within seconds, thus minimizing damage.
 
----
+
 
 ## 3. Data
 
