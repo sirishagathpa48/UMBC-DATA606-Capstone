@@ -1,7 +1,6 @@
 ## 1. Title and Author
 
-### Predictive Analytics for Detecting Fraudulent Transactions in Credit Card Data
-
+- Project Title -  **Predictive Analytics for Detecting Fraudulent Transactions in Credit Card Data**
 - Author - Sirisha Gathpa
 - Semester - Fall'24
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
@@ -12,12 +11,12 @@
 
 ## 2. Background
 
-#### What is it about?
+- #### What is it about?
 The dataset focuses on **fraud detection in financial transactions**. It provides information on various attributes related to each transaction, such as customer details, transaction amounts, merchant locations, and whether the transaction was classified as fraudulent. Fraud detection in financial systems is vital for minimizing risks and protecting financial institutions and customers from economic losses due to fraudulent activities. 
 
 In the field of **financial fraud detection**, machine learning has been increasingly adopted due to its ability to process large volumes of data efficiently and detect suspicious patterns. Fraudulent activities in the financial sector can include unauthorized purchases, identity theft, and card cloning, all of which can cause significant damage to both customers and financial organizations.
 
-#### Why does it matter?
+- #### Why does it matter?
 Financial fraud is a growing global issue, with **billions of dollars lost every year** due to fraudulent transactions. Fraud detection systems that can automatically and accurately identify suspicious activities help financial institutions:
 - **Minimize financial losses** from unauthorized transactions.
 - **Protect customers** from the consequences of fraud, such as identity theft or the use of their personal information.
@@ -26,13 +25,13 @@ Financial fraud is a growing global issue, with **billions of dollars lost every
 
 Traditional rule-based systems are often not effective enough to catch evolving fraud patterns. **Machine learning models** offer a more flexible and adaptive approach to identify fraud by learning from historical transaction data and recognizing new, unseen patterns. These models can evolve with the nature of fraud, reducing false positives while catching true fraud cases.
 
-#### Research Questions
+- #### Research Questions
 1. Can machine learning models accurately classify fraudulent transactions using the features available in this dataset?
 2. Which features contribute the most to the accurate prediction of fraud?
 3. How do the geographic locations of cardholders and merchants affect the likelihood of fraud?
 4. What are the challenges in balancing detection accuracy and false positives?
 
-#### Relevance in Industry
+- #### Relevance in Industry
 Fraud detection is an important **real-time problem** in the banking and retail industries, where millions of transactions happen daily. Large-scale payment processors, credit card companies, and e-commerce platforms require efficient fraud detection systems that can prevent fraudulent transactions before they are completed. Machine learning models can quickly process incoming transactions, flagging potential fraud within seconds, thus minimizing damage.
 
 
