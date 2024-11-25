@@ -29,7 +29,7 @@ Traditional rule-based systems are often not effective enough to catch evolving 
 1. Can machine learning models accurately classify fraudulent transactions using the features available in this dataset?
 2. Which features contribute the most to the accurate prediction of fraud?
 3. How do the geographic locations of cardholders and merchants affect the likelihood of fraud?
-4. What are the challenges in balancing detection accuracy and false positives?
+4. What patterns emerge from analyzing fraud across categories, jobs, and states?
 
 - #### Relevance in Industry
 Fraud detection is an important **real-time problem** in the banking and retail industries, where millions of transactions happen daily. Large-scale payment processors, credit card companies, and e-commerce platforms require efficient fraud detection systems that can prevent fraudulent transactions before they are completed. Machine learning models can quickly process incoming transactions, flagging potential fraud within seconds, thus minimizing damage.
@@ -81,7 +81,6 @@ Each row represents a **financial transaction** between a cardholder and a merch
 
 #### Potential values (for categorical variables):
 - **Category**: personal_care, health_fitness, travel, etc.
-- **Gender**: M (Male), F (Female).
 - **Is_fraud**: 1 (fraud), 0 (legitimate).
 
 #### Target/Label:
@@ -91,11 +90,10 @@ Each row represents a **financial transaction** between a cardholder and a merch
 - Potential features for the ML model include:
   - **amt** (Transaction amount)
   - **category** (Transaction type)
-  - **city_pop** (City population)
-  - **cc_num** (Customer ID number)
-  - **gender** (Gender)
-  - **merch_lat** (Merchant location latitude)
-  - **merch_long** (Merchant location longitude)
+  - **state** (City population)
+  - **trans_date_trans_time** (The date and time of the transaction)
+  - **lat** (Latitude of the customer's location )
+  - **long** (Longitude of the customer's location)
   - **job** (Job title)
 
 
