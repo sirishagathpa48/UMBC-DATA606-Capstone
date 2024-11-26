@@ -197,8 +197,13 @@ they are more likely to be fraud.
 
    ![image](https://github.com/user-attachments/assets/e9431c1d-81cb-42e5-a16d-94469c705ad0)
 
+## 7. Future Use of Machine Learning in Credit Card Fraud Prediction
+- **Enhanced Data Integration:** Leveraging diverse sources like user behavior and device details for better fraud detection.
+- **Advanced Algorithms:** Using deep learning and hybrid models to improve accuracy and detect complex patterns.
+- **Real-Time Systems:** Implementing dynamic risk scoring and instant transaction analysis for proactive fraud prevention.
 
-## 7. Conclusion
+
+## 8. Conclusion
 - Our analysis revealed that the Random Forest classifier outperformed other models, demonstrating the highest accuracy in detecting fraudulent credit card transactions, even after addressing class imbalance with SMOTE sampling.
 - Random Forest, with its ensemble approach, excelled in both accuracy and reliability, making it an effective choice for fraud detection.
 - Its ability to handle complex structured data and reduce overfitting resulted in superior performance on both training and testing datasets.
@@ -206,7 +211,7 @@ they are more likely to be fraud.
 - Logistic Regression, while effective for binary classification, was less capable of capturing the intricate patterns in fraud detection, providing simpler interpretations.
 - XGBoost, though highly effective, performed slightly below Random Forest in this project but remains a strong choice for datasets requiring advanced gradient boosting techniques.
   
-## 8. Limitations
+## 9. Limitations
 - Despite the robust approach and high performance demonstrated by the implemented models, there are several limitations to consider:
 
 - The models rely heavily on the quality and completeness of the dataset; any missing or erroneous data can significantly impact the accuracy of fraud detection.
