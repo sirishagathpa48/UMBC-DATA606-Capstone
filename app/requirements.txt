@@ -1,8 +1,10 @@
-scikit-learn==1.0.2
+streamlit>=1.40.2
+scikit-learn==1.0.2  
+pandas>=1.4.4
+numpy>=1.21.0
+plotly>=5.10.0
+joblib>=1.0.0
+setuptools>=42.0.0
+wheel>=0.36.0
 
-
-pandas==1.4.4
-
-
-streamlit==1.39.0
 
