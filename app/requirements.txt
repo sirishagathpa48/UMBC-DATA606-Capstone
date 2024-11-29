@@ -2,4 +2,12 @@ plotly
 
 scikit-learn==1.0.2
 
+gitdb==4.0.11
+GitPython==3.1.43
+
+opencv-python==4.9.0.80
+openpyxl==3.0.10
+
+pandas==2.2.2
+
 streamlit==1.39.0
