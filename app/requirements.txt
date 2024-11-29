@@ -1,13 +1,11 @@
-plotly
-
-scikit-learn==1.0.2
-
-gitdb==4.0.11
-GitPython==3.1.43
-
-opencv-python==4.9.0.80
-openpyxl==3.0.10
-
-pandas==2.2.2
-
-streamlit==1.39.0
+streamlit==1.40.2  # Matches the version you mentioned
+scikit-learn==1.0.2  # Replace <training_version> with the version used during model training
+pandas>=1.3.0  # For data manipulation and analysis
+numpy>=1.21.0  # Required for numerical computations
+plotly>=5.10.0  # For interactive visualizations
+pickle5>=0.0.11  # To handle pickle files
+joblib>=1.0.0  # For saving/loading models (recommended over pickle for scikit-learn models)
+setuptools>=42.0.0  # Dependency management
+requests>=2.26.0  # For potential API integration with mapbox (used in scatter_mapbox)
+geopandas>=0.9.0  # If extended map-based features are required
+matplotlib>=3.4.0  # Optional, as Plotly covers most visualization needs
