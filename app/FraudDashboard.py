@@ -16,8 +16,8 @@ import plotly.express as px
 from sklearn.preprocessing import StandardScaler
 
 # Load your trained model and scaler
-#with open('app/RandomForest_model.pkl', 'rb') as file:
-#    RandomForest_model = pickle.load(file)
+with open('app/RandomForest_model.pkl', 'rb') as file:
+    RandomForest_model = pickle.load(file)
 
 with open('app/scaler.pkl', 'rb') as f:
     scaler = pickle.load(f)
