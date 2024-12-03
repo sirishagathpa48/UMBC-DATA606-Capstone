@@ -1,29 +1,12 @@
-gitdb==4.0.11
-GitPython==3.1.43
-
-imbalanced-learn==0.12.4
-
+python==3.10.12
 joblib==1.4.2
 
-keras==3.3.3
-
 scikit-learn==1.0.2 
-lightgbm==4.5.0
 
 numpy==1.24.4
-
-opencv-python==4.9.0.80
-openpyxl==3.0.10
-opt-einsum==3.3.0
-optree==0.11.0
 
 scipy==1.9.1
 
 streamlit==1.39.0
 TBB==0.2
-tensorflow==2.16.1
-tensorflow-intel==2.16.1
-tensorflow-io-gcs-filesystem==0.31.0
-
-xgboost==2.1.2
 
