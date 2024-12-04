@@ -3,5 +3,5 @@ nltk
 pandas
 PyPDF2
 python-docx
-scikit-learn
+scikit-learn>=1.0.0
 plotly
