@@ -14,13 +14,14 @@ import pickle
 import pandas as pd
 import plotly.express as px
 from sklearn.preprocessing import StandardScaler
+import joblib
 
 # Load your trained model and scaler
-with open('app/RandomForest_model.pkl', 'rb') as file:
-    RandomForest_model = pickle.load(file)
+with open('app/RandomForest_model.joblib', 'rb') as file:
+    RandomForest_model = joblib.load(file)
 
-with open('app/scaler.pkl', 'rb') as f:
-    scaler = pickle.load(f)
+with open('app/scaler.joblib', 'rb') as f:
+    scaler = joblib.load(f)
     
 # Load transaction data for visualization
 transaction_data = pd.read_csv("EncodedFields_fraudtest.csv")  # Load your dataset here
