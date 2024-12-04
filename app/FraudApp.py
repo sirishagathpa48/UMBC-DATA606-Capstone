@@ -16,10 +16,10 @@ import plotly.express as px
 from sklearn.preprocessing import StandardScaler
 
 # Load your trained model and scaler
-with open('RandomForest_model.pkl', 'rb') as file:
+with open('app/RandomForest_model.pkl', 'rb') as file:
     RandomForest_model = pickle.load(file)
 
-with open('scaler.pkl', 'rb') as f:
+with open('app/scaler.pkl', 'rb') as f:
     scaler = pickle.load(f)
     
 # Load transaction data for visualization
