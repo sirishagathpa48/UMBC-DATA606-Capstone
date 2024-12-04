@@ -1,8 +1,7 @@
-python==3.9.13
-streamlit==1.39.0
-
-scikit-learn==1.0.2 
-
-numpy==1.24.4
-
-
+streamlit>=1.0.0
+nltk
+pandas
+PyPDF2
+python-docx
+scikit-learn
+plotly
