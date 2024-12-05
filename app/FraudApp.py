@@ -4,6 +4,9 @@
 # Streamlit App for Loading and Interacting with Random Forest Model
 # In[2]:
 
+import warnings
+warnings.filterwarnings('ignore')
+
 import streamlit as st
 import pickle
 import pandas as pd
