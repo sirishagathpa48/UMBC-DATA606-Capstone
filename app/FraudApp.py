@@ -21,7 +21,7 @@ with open('app/scaler.pkl', 'rb') as f:
     scaler = pickle.load(f)
     
 # Load transaction data for visualization
-transaction_data = pd.read_csv("EncodedFields_fraudtest.csv")  # Load your dataset here
+transaction_data = pd.read_csv("app/EncodedFields_fraudtest.csv")  # Load your dataset here
 
 # Apply custom CSS to enhance visual appeal
 st.markdown("""
