@@ -11,7 +11,6 @@ import streamlit as st
 import pickle
 import pandas as pd
 import plotly.express as px
-#from sklearn.preprocessing import StandardScaler
 
 # Load your trained model and scaler
 with open('app/RandomForest_model.pkl', 'rb') as file:
