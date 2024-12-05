@@ -1,8 +1,5 @@
 streamlit==1.39.0
-nltk
 pandas
-PyPDF2
 python-docx
 scikit-learn>=1.0.2
 plotly
-joblib
