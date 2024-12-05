@@ -3,6 +3,6 @@ nltk
 pandas
 PyPDF2
 python-docx
-scikit-learn==1.2.2
+scikit-learn>=1.0.2
 plotly
 joblib
