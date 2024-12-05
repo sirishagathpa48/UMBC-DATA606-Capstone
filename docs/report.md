@@ -8,6 +8,7 @@
 - **GitHub:** https://github.com/sirishagathpa48
 - **LinkedIn:** https://www.linkedin.com/in/sirishagathpa48/
 - **PowerPoint Presentation:** https://github.com/sirishagathpa48/UMBC-DATA606-Capstone/blob/main/docs/CreditCardFraudDetection.pptx
+- **Streamlit App:** https://creditfraudprediction.streamlit.app/
 - **YouTube Video:** 
 
 ## 2. Background
