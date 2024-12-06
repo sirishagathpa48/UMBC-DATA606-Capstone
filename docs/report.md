@@ -196,7 +196,9 @@ they are more likely to be fraud.
 
  - User Experience: Here is how the interface design helps users detect fraud and visualize patterns effectively.
 
-   ![image](https://github.com/user-attachments/assets/e9431c1d-81cb-42e5-a16d-94469c705ad0)
+   ![image](https://github.com/sirishagathpa48/UMBC-DATA606-Capstone/blob/main/docs/Images/VisualData_Image15.jpg)
+
+   ![image](https://github.com/sirishagathpa48/UMBC-DATA606-Capstone/blob/main/docs/Images/MapVisualization_Image16.jpg)
 
 ## 7. Future Use of Machine Learning in Credit Card Fraud Prediction
 - **Enhanced Data Integration:** Leveraging diverse sources like user behavior and device details for better fraud detection.
