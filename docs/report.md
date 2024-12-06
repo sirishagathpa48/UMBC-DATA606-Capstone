@@ -9,7 +9,7 @@
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sirishagathpa48/)
 - **PowerPoint Presentation:** [Power Point Presentation](https://github.com/sirishagathpa48/UMBC-DATA606-Capstone/blob/main/docs/Predictive%20Analytics%20for%20Detecting%20Fraudulent%20Transactions%20in%20Credit%20Card%20Data.pptx)
 - **Streamlit App:** [Streamlit App](https://creditfraudprediction.streamlit.app/)
-- **YouTube Video:** [Link]()
+- **YouTube Video:** [YouTube Video](https://www.youtube.com/watch?v=OvnRmur2NBU)
 
 ## 2. Background
 - **What is it about?**
