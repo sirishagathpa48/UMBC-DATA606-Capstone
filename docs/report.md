@@ -192,7 +192,7 @@ they are more likely to be fraud.
 ## 6. Application of the Trained Models using Streamlit Web App
 - This Streamlit web app predicts the likelihood of fraudulent credit card transactions using a pre-trained Random Forest model. Users input transaction details through an interactive interface, which are then processed and fed into the model. The app displays whether the transaction is potentially fraudulent or not, offering a simple and effective tool for fraud detection.
 
-   ![image](https://github.com/sirishagathpa48/UMBC-DATA606-Capstone/blob/main/docs/Images/ModelAccuracy_Image13.jpg)
+   ![image](https://github.com/sirishagathpa48/UMBC-DATA606-Capstone/blob/main/docs/Images/StreamlitApp_Image14.jpg)
 
  - User Experience: Here is how the interface design helps users detect fraud and visualize patterns effectively.
 
