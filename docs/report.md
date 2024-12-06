@@ -9,7 +9,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/sirishagathpa48/
 - **PowerPoint Presentation:** https://github.com/sirishagathpa48/UMBC-DATA606-Capstone/blob/main/docs/CreditCardFraudDetection.pptx
 - **Streamlit App:** https://creditfraudprediction.streamlit.app/
-- **YouTube Video:** 
+- **YouTube Video:** [Link]
 
 ## 2. Background
 - **What is it about?**
@@ -202,25 +202,19 @@ they are more likely to be fraud.
 - **Enhanced Data Integration:** Leveraging diverse sources like user behavior and device details for better fraud detection.
 - **Advanced Algorithms:** Using deep learning and hybrid models to improve accuracy and detect complex patterns.
 - **Real-Time Systems:** Implementing dynamic risk scoring and instant transaction analysis for proactive fraud prevention.
-
-
-## 8. Conclusion
-- Our analysis revealed that the Random Forest classifier outperformed other models, demonstrating the highest accuracy in detecting fraudulent credit card transactions, even after addressing class imbalance with SMOTE sampling.
-- Random Forest, with its ensemble approach, excelled in both accuracy and reliability, making it an effective choice for fraud detection.
-- Its ability to handle complex structured data and reduce overfitting resulted in superior performance on both training and testing datasets.
-- A credit card fraud detection system can significantly reduce financial losses for banks and payment processors, thereby improving financial security and customer trust.
-- Logistic Regression, while effective for binary classification, was less capable of capturing the intricate patterns in fraud detection, providing simpler interpretations.
-- XGBoost, though highly effective, performed slightly below Random Forest in this project but remains a strong choice for datasets requiring advanced gradient boosting techniques.
   
-## 9. Limitations
+## 8. Limitations
 - Despite the robust approach and high performance demonstrated by the implemented models, there are several limitations to consider:
 
 - The models rely heavily on the quality and completeness of the dataset; any missing or erroneous data can significantly impact the accuracy of fraud detection.
 - The use of SMOTE for addressing class imbalances, while effective, may introduce synthetic patterns that do not fully represent real-world fraudulent transactions.
 - The model's performance depends heavily on the provided features. Any changes in transaction data structure or the introduction of new features would require re-training and re-validation of the models.
 - Some models, such as Random Forest, though highly accurate, can make interpreting the results more complex due to their ensemble nature, potentially reducing transparency in decision-making.
-  
 
-
-
- 
+## 9. Conclusion
+- Our analysis revealed that the Random Forest classifier outperformed other models, demonstrating the highest accuracy in detecting fraudulent credit card transactions, even after addressing class imbalance with SMOTE sampling.
+- Random Forest, with its ensemble approach, excelled in both accuracy and reliability, making it an effective choice for fraud detection.
+- Its ability to handle complex structured data and reduce overfitting resulted in superior performance on both training and testing datasets.
+- A credit card fraud detection system can significantly reduce financial losses for banks and payment processors, thereby improving financial security and customer trust.
+- Logistic Regression, while effective for binary classification, was less capable of capturing the intricate patterns in fraud detection, providing simpler interpretations.
+- XGBoost, though highly effective, performed slightly below Random Forest in this project but remains a strong choice for datasets requiring advanced gradient boosting techniques.
